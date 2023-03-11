@@ -1,0 +1,22 @@
+:root {
+    --color1: #1a0c12;  
+    --color2: #f70a71;
+    --color3: #ffdaa6;
+    --color4: #ffb145;
+    --color5: #74ab90;
+}
+
+* {
+    color: var(--color1);
+    background-color: var(--color3);
+    margin: 0px;
+    padding: 0px;
+}
+div {
+    border: var(--color4);
+}
+img {
+    border-radius: 50%;
+    height: 40vh;
+    width: 30vw;
+}

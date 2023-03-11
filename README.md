@@ -1,2 +1,2 @@
 # Portifolio-v2
-Repositorio creado para guarda meu novo portifolio
+Repositorio criado para guarda meu novo portifolio.
